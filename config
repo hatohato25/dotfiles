@@ -1,0 +1,23 @@
+HOST github-cygames
+	HostName github.com
+	Port 22
+	IdentityFile C:\Users\cf0135\.ssh\id_rsa.cygames
+	IdentitiesOnly yes
+	TCPKeepAlive yes
+	User git
+
+HOST github-cygames-GHE
+	HostName kagura.cygames.jp
+	Port 22
+	IdentityFile C:\Users\cf0135\.ssh\id_rsa.cygames
+	IdentitiesOnly yes
+	TCPKeepAlive yes
+	User git
+
+HOST github-home
+	HostName github.com
+	Port 22
+	IdentityFile C:\Users\cf0135\.ssh\id_rsa.home
+	IdentitiesOnly yes
+	TCPKeepAlive yes
+	User git
