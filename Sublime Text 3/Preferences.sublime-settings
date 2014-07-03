@@ -1,0 +1,26 @@
+{
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_slow_plugins": false,
+	"file_history_retention": 30,
+	"file_size_limit": 262144,
+	"font_face": "Ricty",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"history_on_close": false,
+	"draw_minimap_border": true,
+	"auto_complete": true,
+	"ignored_packages":
+	[
+	],
+	"indent_to_bracket": true,
+	"line_padding_top": 4,
+	"remember_open_files": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": false
+}
