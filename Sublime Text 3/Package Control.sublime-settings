@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Compass",
+		"CSScomb",
+		"CTags",
+		"Emmet",
+		"IMESupport",
+		"jQuery",
+		"JSHint",
+		"Local History",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda"
+	]
+}
